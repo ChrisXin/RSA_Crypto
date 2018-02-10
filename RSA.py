@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Assignment 2 Python file
-Copy-and-paste your extended_euclid and modexp functions
-from assignment 1
-"""
 import random
 import math
 
